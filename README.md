@@ -48,7 +48,7 @@ O sistema permite cadastrar o nome de um aluno, inserir três notas, calcular a 
 
 ## 📷 Exemplo de uso
 
-Digite o nome do aluno: Breno
+Digite o nome do aluno: Name
 
 Digite a primeira nota: 7
 
